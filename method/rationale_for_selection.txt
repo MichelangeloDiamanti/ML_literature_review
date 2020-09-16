@@ -1,0 +1,5 @@
+Since the focus is on techniques for validating crowd simulators I have been looking for the following types of papers:
+- Papers explicitly mentioning validation of crowd simulation
+- Application regarding safety: because I thought that most of the simulators involved in safety would need to be validated to some extent before being employed in (possibly) critical applications.
+- Simulators involving the usage of real-world data: those simulators could be "validated by design" because, being trained in real-world data, they try to replicate the behaviour of real people. And most of the time the real-world data is later compared to the simulation output in some way.
+- Papers related to traffic simulation: often times the scope of these applications is not very far away from crowd simulation so, in some cases, they could be applied to fit our needs.
